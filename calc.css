@@ -1,0 +1,59 @@
+div{
+	background-color: #334d4d;
+	margin: 50px;
+	width: 350px;
+	height: 600px;
+	margin: 0 auto;			/* horizontally centreing an element */
+	border-radius: 20px;
+	padding: 10px;
+}
+
+header{
+	background-color: #d1e0e0;
+	width: 330px;
+	height: 80px;
+	border-radius: 20px;
+	margin: 0 auto;	
+	font-size: xx-large;
+	color: #000000;
+	text-align: center;
+	margin-top:20px;
+	padding-top: 20px;
+	
+
+}
+
+table{
+	background-color: #FFFFFF;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-radius: 20px;
+}
+
+td{
+	width: 110px;
+	height: 60px;
+	text-align: center;
+	font-size: xx-large;
+
+}
+
+.orange{
+	color: #ff3300;
+}
+
+td:hover {
+    background-color: #ddd;
+	border-radius: 20px;
+    }
+	
+td:active{
+	background-color: #fcba03;
+	border-radius: 20px;
+}
+
+.keypadGrey {
+	background-color: #f2f2f2;
+}
